@@ -97,3 +97,7 @@ Feel free to check it out for a complete visual walkthrough!
 - Integration with gate pass or HR systems
 
 - Better UI styling with modern frameworks (e.g., PyQt or web-based frontend)
+
+## 📄 License
+Open-source for educational and research use. Give credit if reused or forked.
+Built with ❤️
