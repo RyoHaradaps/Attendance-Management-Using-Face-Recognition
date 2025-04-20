@@ -47,7 +47,10 @@ Make sure you have Python 3 installed.
 
 ### 3. Update Paths and Database Config
 
-- 📌 **NOTE:** Don’t forget to change the **image paths** in the code to match your local system (especially for saving/loading face images). Otherwise, things won’t work as expected!
+- 📌 **NOTE:** 
+    - Don’t forget to change the **image paths** in the code to match your local system (especially for saving/loading face images)
+    - Make sure to delete `classfr.xml` before training the data images(file will generate/rewrite automatically on every train execution)
+    Otherwise, things won’t work as expected!
   
 - 🛠️ Also make sure to update your **database settings** in the file:
   - Change the **database name**
